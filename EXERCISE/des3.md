@@ -29,6 +29,6 @@
    
 整理得：
 
-<img src="http://latex.codecogs.com/gif.latex?v(t+\Deltat)\approxv(t)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat">
+<img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\,v(t)+\frac{\mathrm{d}\,v}{\mathrm{d}\,t}\Delta\,t">
 
 
