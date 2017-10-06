@@ -32,6 +32,6 @@
 
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\,v(t)+\frac{\mathrm{d}\,v}{\mathrm{d}\,t}\Delta\,t">
 代入（1）式得：    
-<img src="http://latex.codecogs.com/gif.latex?v(t<img src="http://latex.codecogs.com/gif.latex?+\Delta\,t)=v(t)+(a-bv)\Delta\,t">
+<img src="http://latex.codecogs.com/gif.latex?v(t<img src=v(t+\Delta\,t)=v(t)+(a-bv)\Delta\,t">
 
 
