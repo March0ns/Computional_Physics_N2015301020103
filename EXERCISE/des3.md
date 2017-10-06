@@ -1,4 +1,4 @@
-     
+      
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103    
@@ -31,7 +31,15 @@
 整理得：
 
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\,v(t)+\frac{\mathrm{d}\,v}{\mathrm{d}\,t}\Delta\,t">
-再由题干得：    
-<img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)=v(t)+(a-bv)\Delta\,t">
+再由题干得：    
 
+<img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)=v(t)+(a-bv)\Delta\,t">    
+
+### 四 代码与图像    
+[代码]()    
+
+![a=10,b=1]()    
+
+### 五 结果分析
+由图可看出，物体的加速度不断减小至0。此时，重力和空气阻力大小相等，方向相反。物体受力平衡，做匀速直线运动。
 
