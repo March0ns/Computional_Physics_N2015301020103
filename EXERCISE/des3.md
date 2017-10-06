@@ -1,4 +1,4 @@
- 
+  
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
@@ -16,7 +16,7 @@
 
 ### 三 使用Euler法推导公式：   
 
-<img src="http://latex.codecogs.com/gif.latex?v(\Deltat)\=v(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat+\frac{1}{2}\frac{\mathrm{d}v^2}{\mathrm{d}^2x}(\Deltat)^2+...">     
+<img src="http://latex.codecogs.com/gif.latex?v(\Delta t)\=v(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Delta t+\frac{1}{2}\frac{\mathrm{d}v^2}{\mathrm{d}^2x}(\Delta t)^2+...">     
    
 只保留一阶项：
 
