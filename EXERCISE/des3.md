@@ -16,18 +16,18 @@
 
 ### 三 使用Euler法推导公式：   
 
-<img src="http://latex.codecogs.com/gif.latex? v(\Delta t)\ = v(0) + \frac{\mathrm{d} v}{\mathrm{d} t}\Delta t+\frac{1}{2}\frac{\mathrm{d} v^2}{\mathrm{d}^2 x}(\Delta t)^2+...">     
+<img src="http://latex.codecogs.com/gif.latex?v(\Deltat)\=v(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat+\frac{1}{2}\frac{\mathrm{d}v^2}{\mathrm{d}^2x}(\Deltat)^2+...">     
    
 只保留一阶项：
 
-<img src="http://latex.codecogs.com/gif.latex? v(\Delta t)\ \approx  v(0) + \frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
+<img src="http://latex.codecogs.com/gif.latex?v(\Deltat)\\approxv(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat">
     
 由导数定义：
 
-<img src="http://latex.codecogs.com/gif.latex? \frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}">  
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}v}{\mathrm{d}t}\equiv\lim_{\Deltat\rightarrow0}\frac{v(t+\Deltat)-v(t)}{\Deltat}\approx\frac{v(t+\Deltat)-v(t)}{\Deltat}">  
    
 整理得：
 
-<img src="http://latex.codecogs.com/gif.latex? v(t+\Delta t)\approx v(t)+\frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
+<img src="http://latex.codecogs.com/gif.latex?v(t+\Deltat)\approxv(t)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat">
 
 
