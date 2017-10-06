@@ -24,11 +24,10 @@
     
 由导数定义：
 
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}")   
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}">  
    
 整理得：
 
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta t)\approx v(t)+\frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
-
 
 
