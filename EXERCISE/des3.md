@@ -1,11 +1,12 @@
-## CHAPTER 1    exercise 1.3
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>   
+   $$ m\frac{\mathrm{d} v}{\mathrm{d} t}=a-bv $$    ## CHAPTER 1    exercise 1.3
 
 姓名：王硕
 学号： 2015301020103
 
 ### 内容提要：    
 
-编程模拟跳伞时的速度变化    
+编程模拟跳伞时的速度    
 使用Euler法求解速度的微分方程    
 
 ### 题目：
