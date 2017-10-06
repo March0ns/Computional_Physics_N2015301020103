@@ -20,11 +20,11 @@
    
 只保留一阶项：
 
-<img src="http://latex.codecogs.com/gif.latex?v(\Deltat)\\approxv(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Deltat">
+<img src="http://latex.codecogs.com/gif.latex?v(\Delta t)\approx v(0)+\frac{\mathrm{d}v}{\mathrm{d}t}\Delta t">
     
 由导数定义：
 
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}v}{\mathrm{d}t}\equiv\lim_{\Deltat\rightarrow0}\frac{v(t+\Deltat)-v(t)}{\Deltat}\approx\frac{v(t+\Deltat)-v(t)}{\Deltat}">  
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}}">  
    
 整理得：
 
