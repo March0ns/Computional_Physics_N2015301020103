@@ -24,7 +24,7 @@
 </div>     
 由导数定义：
 <div align=center>
-<img src="http://www.forkosh.com/mathtex.cgi?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}">   
+![]("http://www.forkosh.com/mathtex.cgi?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}")   
 </div>     
 整理得：
 <div align=center>
