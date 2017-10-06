@@ -1,3 +1,4 @@
+
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
@@ -32,4 +33,4 @@
 
 
 ### 四 代码与图像    
-
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
