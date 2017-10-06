@@ -1,4 +1,4 @@
-
+![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
