@@ -15,20 +15,20 @@
     
 
 ### 三 使用Euler法推导公式：   
-<div align=center>
+
 <img src="http://latex.codecogs.com/gif.latex?v(\Delta t)\ = v(0) + \frac{\mathrm{d} v}{\mathrm{d} t}\Delta t+\frac{1}{2}\frac{\mathrm{d} v^2}{\mathrm{d}^2 x}(\Delta t)^2+...">     
-</div>    
+   
 只保留一阶项：
-<div align=center>
+
 <img src="http://latex.codecogs.com/gif.latex?v(\Delta t)\ \approx  v(0) + \frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
-</div>     
+    
 由导数定义：
-<div align=center>
+
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}")   
-</div>     
+   
 整理得：
-<div align=center>
+
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta t)\approx v(t)+\frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
-</div>
+
 
 
