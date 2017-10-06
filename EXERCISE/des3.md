@@ -30,10 +30,6 @@
 <img src="http://www.forkosh.com/mathtex.cgi?v(t+\Delta t)\approx v(t)+\frac{\mathrm{d} v}{\mathrm{d} t}\Delta t">
 </div>
 
-<div align=center>
-<img src="http://www.forkosh.com/mathtex.cgi?v(t+\Delta t)\approx v(t)+(a-bv)\Delta t">
-</div>    
 
 ### 四 代码与图像    
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>    
-   \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
