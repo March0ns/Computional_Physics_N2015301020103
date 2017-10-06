@@ -1,4 +1,4 @@
- >>>) ## CHAPTER 1 *exercise 1.3
+## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
 
