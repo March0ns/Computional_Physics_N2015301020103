@@ -1,4 +1,4 @@
->>>) ## CHAPTER 1 *exercise 1.3
+ >>>) ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
 
@@ -36,4 +36,4 @@
 
 ### 四 代码与图像    
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>    
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+   \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
