@@ -13,6 +13,7 @@
 <div align=center>   
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\frac{\mathrm{d} v}{\mathrm{d} t}=a-bv">
 </div>      
+
 ### 三 使用Euler法推导公式：   
 <div align=center>
 <img src="http://www.forkosh.com/mathtex.cgi?v(\Delta t)\ = v(0) + \frac{\mathrm{d} v}{\mathrm{d} t}\Delta t+\frac{1}{2}\frac{\mathrm{d} v^2}{\mathrm{d}^2 x}(\Delta t)^2+...">     
