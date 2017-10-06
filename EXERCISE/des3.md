@@ -36,7 +36,7 @@
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)=v(t)+(a-bv)\Delta\,t">    
 
 ### 四 代码与图像    
-[代码](Computional_Physics_N2015301020103/EXERCISE/temp3.py )    
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp3.py )    
 
 ![a=10,b=1]()    
 
