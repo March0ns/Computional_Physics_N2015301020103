@@ -1,4 +1,4 @@
-![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
@@ -24,7 +24,7 @@
 </div>     
 由导数定义：
 <div align=center>
-![]("http://www.forkosh.com/mathtex.cgi?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}")   
+("http://www.forkosh.com/mathtex.cgi?\frac{\mathrm{d} v}{\mathrm{d} t}\equiv \lim_{\Delta t\rightarrow 0}\frac{v(t+\Delta t)-v(t)}{\Delta t}\approx \frac{v(t+\Delta t)-v(t)}{\Delta t}")   
 </div>     
 整理得：
 <div align=center>
@@ -33,4 +33,4 @@
 
 
 ### 四 代码与图像    
-
+<a href="http://www.codecogs.com/eqnedit.php?latex=x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
