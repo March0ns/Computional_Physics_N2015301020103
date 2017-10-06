@@ -1,4 +1,4 @@
-<script type="text/javascript"<src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+><script type="text/javascript"<src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 ## CHAPTER 1 *exercise 1.3
 * 姓名：王硕  
 * 学号： 2015301020103
