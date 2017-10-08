@@ -33,7 +33,7 @@
 <img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\,v(t)+\frac{\mathrm{d}\,v}{\mathrm{d}\,t}\Delta\,t">
 再由题干得：    
 
-<img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\v(t)+(a-bv)\Delta\,t">    
+<img src="http://latex.codecogs.com/gif.latex?v(t+\Delta\,t)\approx\，v(t)+(a-bv)\Delta\,t">    
 
 ### 四 代码与图像    
 [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp3.py )    
