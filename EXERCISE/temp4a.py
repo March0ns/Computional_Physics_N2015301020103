@@ -11,7 +11,7 @@ vx30=[300*cos(radians(30))]
 vy30=[300*sin(radians(30))]
 for i in range(int(t/dt)):
 		v=sqrt(vx30[i]**2+vy30[i]**2)
-		f=b2m*(1-a*y30[i]/253.16)**2.5
+		f=b2m*(1-a*y30[i]/293.16)**2.5
 		f_x=f*v*vx30[i]/v
 		f_y=f*v*vy30[i]/v
 		v_x=vx30[i]-f_x*dt
@@ -33,7 +33,7 @@ vx35=[300*cos(radians(35))]
 vy35=[300*sin(radians(35))]
 for i in range(int(t/dt)):
 		v=sqrt(vx35[i]**2+vy35[i]**2)
-		f=b2m*(1-a*y35[i]/253.16)**2.5
+		f=b2m*(1-a*y35[i]/293.16)**2.5
 		f_x=f*v*vx35[i]/v
 		f_y=f*v*vy35[i]/v
 		v_x=vx35[i]-f_x*dt
@@ -55,7 +55,7 @@ vx40=[300*cos(radians(40))]
 vy40=[300*sin(radians(40))]
 for i in range(int(t/dt)):
 		v=sqrt(vx40[i]**2+vy40[i]**2)
-		f=b2m*(1-a*y40[i]/253.16)**2.5
+		f=b2m*(1-a*y40[i]/293.16)**2.5
 		f_x=f*v*vx40[i]/v
 		f_y=f*v*vy40[i]/v
 		v_x=vx40[i]-f_x*dt
@@ -77,7 +77,7 @@ vx45=[300*cos(radians(45))]
 vy45=[300*sin(radians(45))]
 for i in range(int(t/dt)):
 		v=sqrt(vx45[i]**2+vy45[i]**2)
-		f=b2m*(1-a*y45[i]/253.16)**2.5
+		f=b2m*(1-a*y45[i]/293.16)**2.5
 		f_x=f*v*vx45[i]/v
 		f_y=f*v*vy45[i]/v
 		v_x=vx45[i]-f_x*dt
@@ -99,7 +99,7 @@ vx50=[300*cos(radians(50))]
 vy50=[300*sin(radians(50))]
 for i in range(int(t/dt)):
 		v=sqrt(vx50[i]**2+vy50[i]**2)
-		f=b2m*(1-a*y50[i]/253.16)**2.5
+		f=b2m*(1-a*y50[i]/293.16)**2.5
 		f_x=f*v*vx50[i]/v
 		f_y=f*v*vy50[i]/v
 		v_x=vx50[i]-f_x*dt
@@ -121,7 +121,7 @@ vx55=[300*cos(radians(55))]
 vy55=[300*sin(radians(55))]
 for i in range(int(t/dt)):
 		v=sqrt(vx55[i]**2+vy55[i]**2)
-		f=b2m*(1-a*y55[i]/253.16)**2.5
+		f=b2m*(1-a*y55[i]/293.16)**2.5
 		f_x=f*v*vx55[i]/v
 		f_y=f*v*vy55[i]/v
 		v_x=vx55[i]-f_x*dt
@@ -143,7 +143,7 @@ vx60=[300*cos(radians(60))]
 vy60=[300*sin(radians(60))]
 for i in range(int(t/dt)):
 		v=sqrt(vx60[i]**2+vy60[i]**2)
-		f=b2m*(1-a*y60[i]/253.16)**2.5
+		f=b2m*(1-a*y60[i]/293.16)**2.5
 		f_x=f*v*vx60[i]/v
 		f_y=f*v*vy60[i]/v
 		v_x=vx60[i]-f_x*dt
