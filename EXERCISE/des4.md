@@ -25,7 +25,8 @@ Value of the angle that gives the maximum range
 <img src="http://latex.codecogs.com/gif.latex?y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">     
 
 
-<img src="http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g\Delta\,t-\frac{F_{y}}{M}\Delta\,t">       0
+<img src="http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g\Delta\,t-\frac{F_{y}}{M}\Delta\,t">    
+
 F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 
 <img src="http://latex.codecogs.com/gif.latex?F=-B_{2}v^{2}\frac{\rho\,}{\rho\,_{0}}"> 
@@ -66,12 +67,8 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 在这种情况下最大射击角度为：42度    
 
 
-
-
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4c0.png)    
 
-
-     
 
 [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4c.py)
 ### 5.结果分析
