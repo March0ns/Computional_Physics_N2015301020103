@@ -18,6 +18,7 @@ Value of the angle that gives the maximum range
 <img src="http://latex.codecogs.com/gif.latex?x_{i+1}=x_{i}+v_{x,i}\Delta\,t">      
 
 
+
 <img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{x}}{M}\Delta\,t">      
 
 <img src="http://latex.codecogs.com/gif.latex?y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">     
@@ -74,4 +75,6 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 ### 5.结果分析
 * 空气阻力受空气密度的影响，在计算炮弹轨道时要加入密度修正
 * 由于空气密度随海拔高度上升而降低，空气密度对空气阻力的影响也会降低
-* 考虑空气阻力时，最大射击角度并不是45°
+* 考虑空气阻力时，最大射击角度并不是45°    
+### 6.致谢
+参考了夏海峰与丁冬冬学长的作业，送上感谢！
