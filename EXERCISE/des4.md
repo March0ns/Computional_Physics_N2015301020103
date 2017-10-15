@@ -28,7 +28,7 @@ Value of the angle that gives the maximum range
 F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 
 <img src="http://latex.codecogs.com/gif.latex?F=-B_{2}v^{2}\frac{\rho\,}{\rho\,_{0}}"> 
-<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})^{\Alpha}">     
+<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})^{\alpha}">     
 
 ### 4.参数选择与图像绘制
 * 参数选择：
