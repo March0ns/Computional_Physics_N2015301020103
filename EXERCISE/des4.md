@@ -17,7 +17,7 @@ Value of the angle that gives the maximum range
 <img src="http://latex.codecogs.com/gif.latex?x_{i+1}=x_{i}+v_{x,i}\Delta\,t">    
   
 
-<img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{X}}{M}\Delta\,t">     
+<img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{x}}{M}\Delta\,t">     
 
 
 
