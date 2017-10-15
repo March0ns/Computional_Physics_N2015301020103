@@ -23,7 +23,7 @@ for theta in range(30,61):
     
     while y[-1]>=0.0:
         c=sqrt(v_x[-1]**2+v_y[-1]**2)
-        f=b2m*(1-a*y[-1]/253.16)**2.5
+        f=b2m*(1-a*y[-1]/293.16)**2.5
         f_x=f*c*v_x[-1]/c
         f_y=f*c*v_y[-1]/c
         v_x_tmp=v_x[-1]-f_x*dt
