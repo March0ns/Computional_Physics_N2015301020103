@@ -38,34 +38,34 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 * a=6.5*10^(-3) K/m   
 * T0=293.16K     
 * α=2.5
-* 有无密度修正的轨迹：    
+* 有无密度修正的轨迹：        
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4b.png)     
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4b.png)         
 
 
 有密度修正时飞的更远    
-[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4b.py)  
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4b.py)      
 * 不同射击角度的轨迹：    
 
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4a.png)      
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4a.png)          
 
 
 
 
-[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4a.png )     
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4a.png )         
 
 
 * 角度与射程的关系：   
 
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4c.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4c.png)     
      
 
 
 在这种情况下最大射击角度为：42度    
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4c0.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4c0.png)         
 
 [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4c.py)
 ### 5.结果分析
