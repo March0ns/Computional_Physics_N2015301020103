@@ -1,4 +1,4 @@
-      
+       
 # The trajectory of a cannon shell    (exerxise2.9)
 * 姓名：王硕
 * 学号：2015301020103
@@ -28,7 +28,7 @@ Value of the angle that gives the maximum range
 F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 
 <img src="http://latex.codecogs.com/gif.latex?F=-B_{2}v^{2}\frac{\rho\,}{\rho\,_{0}}"> 
-<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})">     
+<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})^{\Alpha}">     
 
 ### 4.参数选择与图像绘制
 * 参数选择：
@@ -40,7 +40,7 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 有密度修正时飞的更远[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4b.py)  
 * 不同射击角度的轨迹：    
 
-![](./EXERCISE/Figure_4a.png)   
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4a.png)   
 
 [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4a.png )    
 
