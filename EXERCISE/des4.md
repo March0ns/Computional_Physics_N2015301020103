@@ -15,11 +15,14 @@ Value of the angle that gives the maximum range
 炮弹运动轨迹为抛物线
 <div align=center>
 <img src="http://latex.codecogs.com/gif.latex?x_{i+1}=x_{i}+v_{x,i}\Delta\,t">    
+  
 
-<img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{X}}{M}\Delta\,t">    
+<img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{X}}{M}\Delta\,t">     
 
 
-<img src="http://latex.codecogs.com/gif.latex?Y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">    
+
+<img src="http://latex.codecogs.com/gif.latex?Y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">     
+
 
 <img src="http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g\Delta\,t-\frac{F_{y}}{M}\Delta,t">   
 </div>
