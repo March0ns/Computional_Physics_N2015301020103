@@ -17,7 +17,7 @@ t=10000
 dt=0.1
 for i in range(int(t/dt)):
 	v=sqrt(vx1[i]**2+vy1[i]**2)
-	f=b2m*(1-a*y1[i]/253.15)**2.5
+	f=b2m*(1-a*y1[i]/293.15)**2.5
 	f_x=f*v*vx1[i]/v
 	f_y=f*v*y1[i]/v
 	v_x1=vx1[i]-f_x*dt
