@@ -21,6 +21,7 @@ Value of the angle that gives the maximum range
 
 <img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{x}}{M}\Delta\,t">      
 
+
 <img src="http://latex.codecogs.com/gif.latex?y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">     
 
 
@@ -35,13 +36,15 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 * 参数选择：
 * B2/M=4*10^(-5)/m    
 * a=6.5*10^(-3) K/m   
-* T0=293.16K
-* 有无密度修正的轨迹：    
+* T0=293.16K     
+* α=2.5
+* 有无密度修正的轨迹：    
 
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4b.png)     
 
 
-有密度修正时飞的更远[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4b.py)  
+有密度修正时飞的更远    
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4b.py)  
 * 不同射击角度的轨迹：    
 
 
@@ -66,7 +69,7 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 
 
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4c0.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4c0.png)    
 
 
      
