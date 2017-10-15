@@ -28,7 +28,8 @@ Value of the angle that gives the maximum range
 F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 
 <img src="http://latex.codecogs.com/gif.latex?F=-B_{2}v^{2}\frac{\rho\,}{\rho\,_{0}}"> 
-<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})"> 
+<img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})">     
+
 ### 4.参数选择与图像绘制
 * 参数选择：
 * B2/M=4*10^(-5)/m    
@@ -36,7 +37,8 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 * T0=293.16K
 * 有无密度修正的轨迹：
 * 不同射击角度的轨迹：
-* 角度与射程的关系：
+* 角度与射程的关系：    
+
 ### 5.结果分析
 * 空气阻力受空气密度的影响，在计算炮弹轨道时要加入密度修正
 * 由于空气密度随海拔高度上升而降低，空气密度对空气阻力的影响也会降低
