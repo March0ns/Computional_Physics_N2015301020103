@@ -59,16 +59,13 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 * 角度与射程的关系：   
 
 
-
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/Figure_4c.png) 
      
 
 
-在这种情况下最大射击角度为：42度
+在这种情况下最大射击角度为：42度    
 
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4c0.png)    
-
-
 
 [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4c.py)
 ### 5.结果分析
