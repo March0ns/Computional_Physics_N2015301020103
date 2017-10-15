@@ -13,12 +13,12 @@ Figure2.5.Perform your calculation for different firing angles and determine the
 Value of the angle that gives the maximum range
 ### 3.基本原理 
 炮弹运动轨迹为抛物线
-<div align=center>
+
 <img src="http://latex.codecogs.com/gif.latex?x_{i+1}=x_{i}+v_{x,i}\Delta\,t">        
 <img src="http://latex.codecogs.com/gif.latex?v_{x,i+1}=v_{x,i}-\frac{F_{x}}{M}\Delta\,t">         
 <img src="http://latex.codecogs.com/gif.latex?Y_{i+1}=y_{i}+v_{Y,i}\Delta\,t">         
 <img src="http://latex.codecogs.com/gif.latex?v_{y,i+1}=v_{y,i}-g\Delta\,t-\frac{F_{y}}{M}\Delta,t">       
-</div>
+
 F为炮弹运动中受到的空气阻力,与速度和空气密度有关
 <img src="http://latex.codecogs.com/gif.latex?F=-B_{2}v^{2}\frac{\rho\,}{\rho\,_{0}}"> 
 <img src="http://latex.codecogs.com/gif.latex?\rho\,=\rho\,_{0}(1-\frac{ay}{T_{0}})"> 
