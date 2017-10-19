@@ -53,7 +53,7 @@ F为炮弹运动中受到的空气阻力,与速度和空气密度有关    
 
 
 
-[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/Figure_4a.png )         
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/temp4a.png )         
 
 
 * 角度与射程的关系：   
