@@ -1,4 +1,4 @@
-  
+    
 ## EXERCISE 2.9    
 * 姓名：王硕
 * 学号：2015301020103
@@ -25,6 +25,7 @@ Modle the effect of backspin on the range of a batted ball.Assume an angular vel
 * 2.B2/m=0039+0.0058(1+exp((v-35)/5)))      
 * 3.omega=4000*pi/60       
 * vx=30m/s,vy=10m/s,vz=20m/s      
+
 
 
 
