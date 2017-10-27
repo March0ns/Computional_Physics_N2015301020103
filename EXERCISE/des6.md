@@ -1,4 +1,3 @@
-
 ## EXEXCISE 3.12    
 * 姓名：王硕
 * 学号：2015301020103
@@ -29,8 +28,20 @@
 <div align=center>
 
 <img src="http://latex.codecogs.com/gif.latex?t_{i+1}=t_{i}+\Delta\,t">    
-</div>
+</div>    
 
+#### 3.图像
+* 1.theta-t图
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_c_1.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_c_2.png)
+* 2.Delat_theta-t图
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_a_1.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_a_2.png)
+* 3.omege-theta图    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_b_1.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_b_2.png)    
+* 4. exercise3.12
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/edit/master/EXERCISE/F6_d_2.png)
 
    
        
