@@ -47,9 +47,11 @@
 
 * exercise3.12:[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp6b.py)
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_d_2.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_d_2.png)    
 
-   
+#### 4.结果分析    
+
+   
        
 
 
