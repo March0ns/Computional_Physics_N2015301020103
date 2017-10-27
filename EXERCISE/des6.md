@@ -31,10 +31,10 @@
 </div>    
 
 #### 3.图像
-* 1.theta-t图: FD=0.5(L)    FD=1.2(R)    [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp6a.py)
+* 1.theta-t图: FD=0.5(L)    FD=1.2(R)    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_1.png)![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_2.png)    
 
-* 2.Delat_theta-t图:    
+* 2.Delat_theta-t图:[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp6a.py)    
 
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_a_1.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_a_2.png)    
