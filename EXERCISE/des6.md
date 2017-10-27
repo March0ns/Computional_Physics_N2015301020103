@@ -1,4 +1,4 @@
-## EXEXCISE 3.12    
+## EXEXCISE 3.12    
 * 姓名：王硕
 * 学号：2015301020103
 * 班级：物基二班    
@@ -31,7 +31,7 @@
 </div>    
 
 #### 3.图像
-* 1.theta-t图:    
+* 1.theta-t图: FD=0.5(L)    FD=1.2(R)  
 
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_1.png)![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_2.png)    
 
