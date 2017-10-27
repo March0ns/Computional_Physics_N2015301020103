@@ -33,8 +33,7 @@
 #### 3.图像
 * 1.theta-t图:    
 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_1.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_2.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_1.png)![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_c_2.png)    
 
 * 2.Delat_theta-t图:    
 
