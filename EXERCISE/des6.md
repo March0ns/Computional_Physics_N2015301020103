@@ -40,7 +40,7 @@
 * 3.omege-theta图    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_b_1.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_b_2.png)    
-* 4. exercise3.12
+* exercise3.12
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_d_2.png)
 
    
