@@ -1,3 +1,4 @@
+
 ## EXEXCISE 3.12    
 * 姓名：王硕
 * 学号：2015301020103
@@ -7,20 +8,28 @@
 * 用Euler-Cromer方法模拟计算混沌现象    
 #### 2.正文：    
 用Euler-Cromer方法模拟计算如下驱动力下的混沌现象：    
+<div align=center>
 
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,\theta\,^{2}}{\mathrm{d}\,t^2}=-\frac{g}{l}sin\theta\,-q\frac{\mathrm{d}\,\theta\,}{\mathrm{d}\,t}+F_{D}sin(\Omega\,_{D}t)">    
-
+</div>
 即：    
+<div align=center>
 
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,\omega}{\mathrm{d}\,t}=-\frac{g}{l}sin\theta\,-q\frac{\mathrm{d}\,\theta\,}{\mathrm{d}\,t}+F_{D}sin(\Omega\,_{D}t)">    
-
+</div>
 运用Euler-Cromer方法：    
+<div align=center>
 
 <img src="http://latex.codecogs.com/gif.latex?\omega_{i+1}=\omega_{i}-[(\frac{g}{l})sin\theta_{i}-q\omega_{i}+F_{D}sin(\Omega_{D})]\Delta\,t">    
+</div>
+<div align=center>
 
-<img src="http://latex.codecogs.com/gif.latex?\theta_{i+1}=\theta_{i}+\omega_{i+1}\Delta\,t">    
+<img src="http://latex.codecogs.com/gif.latex?\theta_{i+1}=\theta_{i}+\omega_{i+1}\Delta\,t">     
+</div>
+<div align=center>
 
 <img src="http://latex.codecogs.com/gif.latex?t_{i+1}=t_{i}+\Delta\,t">    
+</div>
 
 
    
