@@ -10,7 +10,12 @@
     
     
 
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,\theta\,^{2}}{\mathrm{d}\,t^2}=-\frac{g}{l}sin\theta\,-q\frac{\mathrm{d}\,\theta\,}{\mathrm{d}\,t}+F_{D}sin(\Omega\,_{D}t)">    
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,\theta\,^{2}}{\mathrm{d}\,t^2}=-\frac{g}{l}sin\theta\,-q\frac{\mathrm{d}\,\theta\,}{\mathrm{d}\,t}+F_{D}sin(\Omega\,_{D}t)">      
+
+
+
+
+
 
 即：    
 
