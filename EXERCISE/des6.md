@@ -50,7 +50,7 @@
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F6_d_2.png)    
 
 #### 4.结果分析     
-FD=0.5时运动有一定的周期性，是非混沌的。FD=1.2时运动无规律，是混沌的
+FD=0.5时运动有一定的周期性，是非混沌的。FD=1.2时运动无规律，是混沌的。说明阻尼的大小在这个实验中影响很大
 
    
        
