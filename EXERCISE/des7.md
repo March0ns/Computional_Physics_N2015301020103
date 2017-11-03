@@ -26,11 +26,11 @@
 
 * 1.r不同时速度z随时间变化的图像：    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_20.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_20.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_25.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_30.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_30.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_150.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_160.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_160.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_170.png) 
 
 * 2.速度z与温度x和密度y的图像    
