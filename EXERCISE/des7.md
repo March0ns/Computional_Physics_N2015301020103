@@ -1,4 +1,4 @@
-## EXERCISE 3.26
+ ## EXERCISE 3.26
 * 姓名：王硕
 * 学号：2015301020103
 * 班级：物基二班    
@@ -19,7 +19,8 @@
  <div align=center>
 
  <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,z}{\mathrm{d}\,x}=xy-bz">         
-</div>
+</div>    
+
 #### 3.图像：    
 
 * 1.r不同时速度z随时间变化的图像：    
