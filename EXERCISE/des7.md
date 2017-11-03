@@ -7,7 +7,8 @@
     就在这样简单的Lorenz模型之下，出现了混沌现象。而且这种现象似乎是普遍的，因为在三个变量取值的大部分可能性下，系统演变的轨迹都会渐渐趋近于同一个产生混沌的区域，就像磁铁吸引着图钉，混沌的行为成为了必然。这就是人们发现的第一个混沌吸引子：洛伦兹吸引子。它的形状，就像一只蝴蝶；这大概也是洛伦兹将这种混沌的现象称为“蝴蝶效应”的原因。一只南美洲蝴蝶的扑翼，在蝴蝶效应的放大下，也许引起德克萨斯州的一场飓风。天气不可能准确预测，因为天气是混沌的，微小的扰动在长远看来是不可忽略的，而我们又无力去追踪无数的扰动，只能一边预计，一边修正。[*](http://www.cnblogs.com/WhyEngine/p/4308445.html)    
   
 #### 2.正文
-洛伦兹模型的方程：      
+洛伦兹模型的方程：    
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp7.py)
 
 <div align=center>     
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,x}{\mathrm{d}\,t}=\sigma\,(y-x)">        
@@ -25,22 +26,22 @@
 
 * 1.r不同时速度z随时间变化的图像：    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_20.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_25.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_30.png) 
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_150.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_160.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_a_170.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_20.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_25.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_30.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_150.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_160.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_170.png) 
 
 * 2.速度z与温度x和密度y的图像    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_c_25.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_c_25x.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_c_25.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_c_25x.png) 
      
 * 3.当x=0时，z与y和y=0时，z与x的图像    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_b_25x.png)    
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/tree/master/EXERCISE/F_b_25y.png) 
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_25x.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_25y.png) 
 
 #### 4.分析    
  1. 当r较小时，流体经过一个暂态过程后逐渐变得稳定。r增加到25时，开始出现混沌现象。    
