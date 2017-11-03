@@ -1,4 +1,4 @@
- ## EXERCISE 3.26
+## EXERCISE 3.26
 * 姓名：王硕
 * 学号：2015301020103
 * 班级：物基二班    
@@ -35,12 +35,12 @@
 
 * 2.速度z与温度x和密度y的图像    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_c_25.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_c_25.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_c_25x.png) 
      
 * 3.当x=0时，z与y和y=0时，z与x的图像    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_25x.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_25x.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_25y.png) 
 
 #### 4.分析    
