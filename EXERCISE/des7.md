@@ -7,13 +7,14 @@
 　　就在这样简单的Lorenz模型之下，出现了混沌现象。而且这种现象似乎是普遍的，因为在三个变量取值的大部分可能性下，系统演变的轨迹都会渐渐趋近于同一个产生混沌的区域，就像磁铁吸引着图钉，混沌的行为成为了必然。这就是人们发现的第一个混沌吸引子：洛伦兹吸引子。它的形状，就像一只蝴蝶；这大概也是洛伦兹将这种混沌的现象称为“蝴蝶效应”的原因。一只南美洲蝴蝶的扑翼，在蝴蝶效应的放大下，也许引起德克萨斯州的一场飓风。天气不可能准确预测，因为天气是混沌的，微小的扰动在长远看来是不可忽略的，而我们又无力去追踪无数的扰动，只能一边预计，一边修正。[*](http://www.cnblogs.com/WhyEngine/p/4308445.html)    
   
 #### 2.正文
-洛伦兹模型的方程：    
-     
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} x}{\mathrm{d} t}=\sigma (y-x)">    
+洛伦兹模型的方程：      
 
- <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} y}{\mathrm{d} t}=-xz+rx-y">    
+     
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,x}{\mathrm{d}\,t}=\sigma\,(y-x)">    
+
+ <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,y}{\mathrm{d}\,t}=-xz+rx-y">    
  
- <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d} z}{\mathrm{d} x}=xy-bz">   
+ <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,z}{\mathrm{d}\,x}=xy-bz">   
 
 #### 3.图像：    
 
