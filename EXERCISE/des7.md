@@ -11,9 +11,13 @@
 
 <div align=center>     
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,x}{\mathrm{d}\,t}=\sigma\,(y-x)">        
+</div>    
+<div align=center>
 
  <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,y}{\mathrm{d}\,t}=-xz+rx-y">         
- 
+ </div>    
+ <div align=center>
+
  <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}\,z}{\mathrm{d}\,x}=xy-bz">         
 </div>
 #### 3.图像：    
