@@ -9,7 +9,8 @@
 <img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{i,\parallel\,}}=\overrightarrow{v_{i}}-\overrightarrow{v_{i,\perp\,}}">       
 
 <img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\perp\,}}=-\overrightarrow{v_{i,\perp\,}}">        
-<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\parallel\,}}=\overrightarrow{v_{i,\parallel\,}}">           
+<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\parallel\,}}=\overrightarrow{v_{i,\parallel\,}}">    
+    
 设碰撞点法向量为：    
 <img src="http://latex.codecogs.com/gif.latex?\widehat{n}=a\widehat{i}+b\widehat{j}">    
 可得：    
