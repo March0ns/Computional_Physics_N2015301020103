@@ -7,15 +7,16 @@
 ### 2.正文        
 台球撞壁后速度改变：    
 <div align=center>    
-<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{i,\perp\,}}=(\overrightarrow{v_{i}}\cdot\,\widehat{n})\widehat{n}">      
+<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{i,\perp\,}}=(\overrightarrow{v_{i}}\cdot\,\widehat{n})\widehat{n}">          
 <img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{i,\parallel\,}}=\overrightarrow{v_{i}}-\overrightarrow{v_{i,\perp\,}}">      
 </div>
 <div align=center>
-<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\perp\,}}=-\overrightarrow{v_{i,\perp\,}}">        
+<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\perp\,}}=-\overrightarrow{v_{i,\perp\,}}">    
+ 
 <img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\parallel\,}}=\overrightarrow{v_{i,\parallel\,}}">    
  </div>   
 设碰撞点法向量为：
-<<div align=center>>
+<div align=center>
 <img src="http://latex.codecogs.com/gif.latex?\widehat{n}=a\widehat{i}+b\widehat{j}"> 
 </div>
 可得：
