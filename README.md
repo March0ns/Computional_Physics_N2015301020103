@@ -6,6 +6,7 @@
 [Exercise_05:the effect of spin](./EXERCISE/des5.md)     
 [Exercise_06:Chaos in the Driven Nonlinear Pendulum](./EXERCISE/des6.md)      
 [Exercise_07:Lorenz model](./EXERCISE/des7.md)      
-[Exercise 08:The Billiard Problem](./EXERCISE/des8.md)
+[Exercise 08:The Billiard Problem](./EXERCISE/des8.md)    
+[Mid-term operation](./shell_game/shell_game.py)
 
 
