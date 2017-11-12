@@ -1,4 +1,4 @@
-
+ 
 ## EXERCISE 3.31
 * 姓名：王硕
 * 学号：2015301020103
@@ -36,4 +36,6 @@
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}x}{\mathrm{d}t}=v_{x}"> 
  </div><div align=center>
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}y}{\mathrm{d}t}=v_{y}"> 
-    </div>
+    </div>        
+    
+### 3.图像
