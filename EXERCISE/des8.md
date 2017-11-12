@@ -15,7 +15,7 @@
 <img src="http://latex.codecogs.com/gif.latex?\overrightarrow{v_{f,\parallel\,}}=\overrightarrow{v_{i,\parallel\,}}">    
  </div>   
 设碰撞点法向量为：
-</div>
+<<div align=center>>
 <img src="http://latex.codecogs.com/gif.latex?\widehat{n}=a\widehat{i}+b\widehat{j}"> 
 </div>
 可得：
