@@ -44,28 +44,16 @@
 桌面形状从矩形变到三角形的过程：    
     
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_1.png)
-
-
-
-
-    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_2.png)    
-    
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_3.png)     
-     
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_4.png)      
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_3.png)     
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_4.png)      
  初速度方向与边缘垂直时：    
-     
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_5.png)    
-     
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_5.png)    
  相差   0.0001时：    
-     
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_6.png)     
-     
- 相差   0.001时：    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_6.png)     
+  相差   0.001时：    
  ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_7.png)    
-     
- 相差   0.01时：
+  相差   0.01时：
  ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_8.png)
  相差   0.1时：    
  ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_9.png)
