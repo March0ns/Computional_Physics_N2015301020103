@@ -3,7 +3,7 @@
 * 姓名：王硕
 * 学号：2015301020103
 ### 1.摘要
-研究在理想情况下，台球在不同形状的球桌上碰撞的混沌系统。
+研究在理想情况下，台球在不同形状的球桌上碰撞，和初速度方向对混沌系统的影响。
 ### 2.正文        
 台球撞壁后速度改变：    
 <div align=center>    
@@ -39,3 +39,29 @@
     </div>        
     
 ### 3.图像
+
+桌面形状从矩形变到三角形的过程：    
+    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_1.png)    
+    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_2.png)    
+    
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_3.png)     
+     
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_4.png)      
+ 初速度方向与边缘垂直时：    
+     
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_5.png)    
+     
+ 相差   0.0001时：    
+     
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_6.png)     
+     
+ 相差   0.001时：    
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_7.png)    
+     
+ 相差   0.01时：
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_8.png)
+ 相差   0.1时：    
+ ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_9.png)
+ 
