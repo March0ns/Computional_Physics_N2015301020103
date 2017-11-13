@@ -61,3 +61,4 @@
  发现形状越对称，混沌的现象越不明显；初速度与桌边垂直时，没有出现混沌现象，初速度越偏离垂直的方向，混沌现象越明显。
  ### 5.致谢
  参考了丁冬冬学长和刘星辰学长的作业，在此表示感谢。
+ [代码]（https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp8.py)
