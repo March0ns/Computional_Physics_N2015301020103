@@ -52,9 +52,9 @@
  相差   0.0001时：    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_6.png)     
   相差   0.001时：    
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_7.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_7.png)    
   相差   0.01时：
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_8.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_8.png)
  相差   0.1时：    
- ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_9.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_9.png)
  
