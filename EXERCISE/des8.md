@@ -1,4 +1,5 @@
- 
+
+
 ## EXERCISE 3.31
 * 姓名：王硕
 * 学号：2015301020103
@@ -42,7 +43,11 @@
 
 桌面形状从矩形变到三角形的过程：    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_1.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_1.png)
+
+
+
+
     
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_8_2.png)    
     
