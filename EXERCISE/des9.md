@@ -19,7 +19,8 @@
 </div><div align=center>
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}y_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{j}">    
 </div>    
-[程序](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp9.py)
+[程序](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp9.py)    
+
 #### 3.图像   
 
  1 Jupiter=M    
