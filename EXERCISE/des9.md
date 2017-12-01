@@ -1,4 +1,4 @@
- ## Exercise 4.16
+  ## Exercise 4.16
 * 姓名：王硕
 * 学号：2015301020103
 #### 1.摘要
@@ -41,5 +41,9 @@
 
  给太阳一个速度后    
     
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_9_1.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_9_1.png)     
+ ### 4.总结
+ 木星的引力会使地球进动，当木星的质量过大时，整个系统会变得极不稳定，甚至相撞。
+ ### 5.致谢
+ 参考了刘星辰学长的作业，在此表示感谢
 
