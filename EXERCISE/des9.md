@@ -1,4 +1,4 @@
-## Exercise 4.16
+ ## Exercise 4.16
 * 姓名：王硕
 * 学号：2015301020103
 #### 1.摘要
@@ -28,6 +28,7 @@
 * 3 Jupiter=100M
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_9_2.png)
 * 4 Jupiter=1000M
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_9_3.png)
-给太阳一个速度后
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_9_3.png)    
+
+给太阳一个速度后   
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_9_1.png)
