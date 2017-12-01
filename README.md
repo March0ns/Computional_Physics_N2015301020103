@@ -6,8 +6,8 @@
 [Exercise_05:the effect of spin](./EXERCISE/des5.md)     
 [Exercise_06:Chaos in the Driven Nonlinear Pendulum](./EXERCISE/des6.md)      
 [Exercise_07:Lorenz model](./EXERCISE/des7.md)      
-[Exercise 08:The Billiard Problem](./EXERCISE/des8.md)    
+[Exercise_08:The Billiard Problem](./EXERCISE/des8.md)    
 [Mid-term operation](./shell_game/shell_game.md)    
-[Exercise 09:The three body](./EXERCISE/des9.md)
+[Exercise_09:The three body](./EXERCISE/des9.md)
 
 
