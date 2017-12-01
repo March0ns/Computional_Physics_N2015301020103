@@ -22,6 +22,7 @@
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}x_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{i}">    
 </div><div align=center>
 <img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}y_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{j}">    
-</div>
+</div>    
+
 #### 3.图像   
 
