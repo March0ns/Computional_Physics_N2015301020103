@@ -11,11 +11,17 @@
 3.两颗星围绕第三颗星旋转.
 4.三个等质量的物体在一条8字形轨道上运动
 
-对3个天体进行分析，则第i个天体在t时刻的运动方程：
-<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{f_{i}}=\sum_{k=1}^{3}G\frac{m_{i}m_{k}}{r_{i,k}^{2}}\cdot\,\frac{\overrightarrow{n_{i,k}}}{n_{i,k}}">   ，
-其中<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{n_{i,k}}=\,\overrightarrow{n_{i,k}}=(r_{k}cos\theta\,_{k}-r_{i}cos\theta\,_{i},r_{k}sin\theta\,_{k}-r_{i}sin\theta\,_{i})">   
-<img src="http://latex.codecogs.com/gif.latex?r_{i,k}^{2}=r_{i}^{2}+r_{k}^{2}-2cos(\theta\,_{i}-\theta\,_{k})r_{i}r_{k}">    
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}x_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{i}">
-<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}y_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{j}">
+对3个天体进行分析，则第i个天体在t时刻的运动方程：     
+
+<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{f_{i}}=\sum_{k=1}^{3}G\frac{m_{i}m_{k}}{r_{i,k}^{2}}\cdot\,\frac{\overrightarrow{n_{i,k}}}{n_{i,k}}">   ，     
+
+其中<img src="http://latex.codecogs.com/gif.latex?\overrightarrow{n_{i,k}}=\,\overrightarrow{n_{i,k}}=(r_{k}cos\theta\,_{k}-r_{i}cos\theta\,_{i},r_{k}sin\theta\,_{k}-r_{i}sin\theta\,_{i})">     
+
+<img src="http://latex.codecogs.com/gif.latex?r_{i,k}^{2}=r_{i}^{2}+r_{k}^{2}-2cos(\theta\,_{i}-\theta\,_{k})r_{i}r_{k}">     
+
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}x_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{i}">    
+
+<img src="http://latex.codecogs.com/gif.latex?\frac{\mathrm{d}^{2}y_{i}\,}{\mathrm{d}\,t^{2}}=\overrightarrow{f_{i}}\cdot\,\overrightarrow{j}">    
+
 #### 3.图像   
 
