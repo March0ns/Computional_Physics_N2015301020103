@@ -39,7 +39,7 @@
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_a_9_3.png)   
 
 
-    给太阳一个速度后    
+ 给太阳一个速度后    
     
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/F_b_9_1.png)    
 
