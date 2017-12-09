@@ -1,4 +1,4 @@
-   ## Exercise 5.1
+## Exercise 5.1
 * 姓名：王硕
 * 学号：2015301020103
 
@@ -7,7 +7,9 @@
 #### 2.正文
 <img src="http://latex.codecogs.com/gif.latex?V(i,j)=\frac{1}{4}[V(i+1,j,k)+V(i-1,j,k)+V(i,j+1,k)+V(i,j-1,k)]">    
 <img src="http://latex.codecogs.com/gif.latex?E_{x}=-\frac{\partial\,V}{\partial\,x}">  
-<img src="http://latex.codecogs.com/gif.latex?E_{x}(i,j)\approx\,-\frac{V(i+1,j)-V(i-1,j)}{2\Delta\,x}">    
+<img src="http://latex.codecogs.com/gif.latex?E_{x}(i,j)\approx\,-\frac{V(i+1,j)-V(i-1,j)}{2\Delta\,x}">      
+[代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp10.py)    
+
 
 #### 3.图像    
 
