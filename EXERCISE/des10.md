@@ -1,4 +1,4 @@
-  ## Exercise 5.1
+   ## Exercise 5.1
 * 姓名：王硕
 * 学号：2015301020103
 
@@ -41,7 +41,7 @@ x=0,y=0,V=-1
 
 边界条件4        
 x=-0.3且y=0,V=1     
-x=0.3且y=0,V=-1    
+x=0.3且y=0,V=-1        
 其他，V=0     
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v41.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v42.png)
