@@ -50,6 +50,6 @@ x=0.3且y=0,V=-1        
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v42.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v43.png)
 #### 致谢
-参考了Chen yebo学长的代码，在此表示感谢
+参考了[Chen yebo](https://github.com/whucyb/computational_physics_N2014301020067)学长的代码，在此表示感谢
 
 
