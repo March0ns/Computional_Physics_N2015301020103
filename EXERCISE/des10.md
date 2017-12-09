@@ -1,4 +1,4 @@
-## Exercise 5.1
+ ## Exercise 5.1
 * 姓名：王硕
 * 学号：2015301020103
 
@@ -16,7 +16,7 @@
 
 V={0,x=±1或y=±1    
    1,-0.3<=x<=0.3且-0.3<=y<=0.3        
-   0,other}    
+    0,其他}    
    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v11.png)    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v12.png)
