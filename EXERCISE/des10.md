@@ -15,8 +15,8 @@
 边界条件1    
 
 V={0,x=±1或y=±1    
-   1,-0.3<=x<=0.3且-0.3<=y<=0.3        
-    0,其他}    
+     1,-0.3<=x<=0.3且-0.3<=y<=0.3        
+     0,其他}    
    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v11.png)    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v12.png)
