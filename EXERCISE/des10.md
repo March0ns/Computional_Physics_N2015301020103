@@ -14,5 +14,23 @@
 
 边界条件1    
 
-![](http://latex.codecogs.com/gif.latex?V%3D%5Cbegin%7Bcases%7D%200%20%26%20%2Cx%3D%5Cpm%201%20%5C%20or%5C%20y%3D%5Cpm%201%20%5C%5C%201%20%26%20%2Cx%3D0%5C%20and%5C%20y%3D0%5C%5C%200%20%26%20%2Cother%20%5Cend%7Bcases%7D)
+V=(0,x=±1或y=±1    
+   1,-0.3<=x<=0.3且-0.3<=y<=0.3    
+   0,other)
+![]()    
+![]()
+![]()    
+边界条件2    
+![](http://latex.codecogs.com/gif.latex?V%3D%5Cbegin%7Bcases%7D%200%20%26%20%2Cx%3D%5Cpm%201%20%5C%20or%5C%20y%3D%5Cpm%201%20%5C%5C%201%20%26%20%2Cx%3D-0.3%5C%20and%5C%20y%3D0%5C%5C%20-1%20%26%20%2C%20x%3D0.3%5C%20and%5C%20y%3D0%5C%5C%200%20%26%20%2Cother%20%5Cend%7Bcases%7D)
+![]()
+![]()
+![]()    
+边界条件3
+![](http://latex.codecogs.com/gif.latex?V%3D%5Cbegin%7Bcases%7D%200%20%26%20%2Cx%3D%5Cpm%201%20%5C%20or%5C%20y%3D%5Cpm%201%20%5C%5C%201%20%26%20%2Cx%3D-0.3%5C%20and%5C%20y%3D0%5C%5C%201%20%26%20%2C%20x%3D0.3%5C%20and%5C%20y%3D0%5C%5C%200%20%26%20%2Cother%20%5Cend%7Bcases%7D)    
+![]()
+![]()
+![]()    
+边界条件4
+![](http://latex.codecogs.com/gif.latex?V%3D%5Cbegin%7Bcases%7D%200%20%26%20%2Cx%3D%5Cpm%201%20%5C%20or%5C%20y%3D%5Cpm%201%20%5C%5C%201%20%26%20%2Cx%3D-0.3%5C%20and%5C%20y%3D0.3%5C%5C%201%20%26%20%2C%20x%3D0.3%5C%20and%5C%20y%3D-0.3%5C%5C%20-1%20%26%20%2Cx%3D-0.3%5C%20and%5C%20y%3D-0.3%5C%5C%20-1%20%26%20%2C%20x%3D0.3%5C%20and%5C%20y%3D0.3%5C%5C%200%20%26%20%2Cother%20%5Cend%7Bcases%7D)
+
 
