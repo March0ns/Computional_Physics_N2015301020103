@@ -14,14 +14,19 @@
 
 边界条件1    
 
-V={0,x=±1或y=±1    
-     1,-0.3<=x<=0.3且-0.3<=y<=0.3        
-     0,其他}    
+x=±1或y=±1 ,V=0       
+-0.3<=x<=0.3且-0.3<=y<=0.3,V=1        
+其他, V=0     
    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v11.png)    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v12.png)
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v13.png)    
-边界条件2    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v13.png)    
+
+边界条件2     
+x=x=±1或y=±1 ,V=0        
+-0.3<=x<=0.3且y=0.3,V=-1        
+-0.3<=x<=0.3且y=-0.3,V=1       
+其他，V=0    
 
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v21.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v22.png)
