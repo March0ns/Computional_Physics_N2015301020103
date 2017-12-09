@@ -10,6 +10,7 @@
 <img src="http://latex.codecogs.com/gif.latex?E_{x}(i,j)\approx\,-\frac{V(i+1,j)-V(i-1,j)}{2\Delta\,x}">
 #### 3.图像    
 
+
 边界条件1    
 
 ![](http://latex.codecogs.com/gif.latex?V%3D%5Cbegin%7Bcases%7D%200%20%26%20%2Cx%3D%5Cpm%201%20%5C%20or%5C%20y%3D%5Cpm%201%20%5C%5C%201%20%26%20%2Cx%3D0%5C%20and%5C%20y%3D0%5C%5C%200%20%26%20%2Cother%20%5Cend%7Bcases%7D)
