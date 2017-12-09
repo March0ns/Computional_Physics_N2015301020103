@@ -16,20 +16,21 @@
 
 V={0,x=±1或y=±1    
    1,-0.3<=x<=0.3且-0.3<=y<=0.3        
-   0,other}
-![]()    
-![]()
-![]()    
+   0,other}    
+   
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v11.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v12.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v13.png)    
 边界条件2    
 
-![]()
-![]()
-![]()    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v21.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v22.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v23.png)    
 边界条件3
    
-![]()
-![]()
-![]()    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v31.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v32.png)
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v33.png)    
 边界条件4
 
 
