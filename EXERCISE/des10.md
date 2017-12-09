@@ -37,13 +37,15 @@ x=0,y=0,V=-1
    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v31.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v32.png)
-![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v33.png)    
+![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v33.png)    
+
 边界条件4        
 x=-0.3且y=0,V=1     
 x=0.3且y=0,V=-1    
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v41.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v42.png)
 ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/v43.png)
-
+#### 致谢
+参考了Chen yebo学长的代码，在此表示感谢
 
 
