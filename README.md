@@ -9,6 +9,7 @@
 [Exercise_08:The Billiard Problem](./EXERCISE/des8.md)    
 [Mid-term operation](./shell_game/shell_game.md)    
 [Exercise_09:The three body](./EXERCISE/des9.md)    
-[Exercise_10:Electric Potentials and Field](./EXERCISE/des10.md)
+[Exercise_10:Electric Potentials and Field](./EXERCISE/des10.md)    
+[Exercise_10:Waves](./EXERCISE/des11.md)
 
 
