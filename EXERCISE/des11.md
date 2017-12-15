@@ -1,3 +1,4 @@
+
 ## Exercise6.6
 * 姓名 ：王硕
 * 学号：2015301020103
@@ -26,8 +27,10 @@
   </div>    
   做数值计算时，将横坐标划分为若干个点，做数值计算。    
   <div align=center>
-<img src="http://latex.codecogs.com/gif.latex?x=i\Delta\,x">    
-  <img src="http://latex.codecogs.com/gif.latex?t=n\Delta\,t">    
+<img src="http://latex.codecogs.com/gif.latex?x=i\Delta\,x">
+  </div><div align=center>
+  <img src="http://latex.codecogs.com/gif.latex?t=n\Delta\,t">
+   </div><div align=center>
   <img src="http://latex.codecogs.com/gif.latex?y\equiv\,y">
   </div>        
   y由此有如下关系式：    
