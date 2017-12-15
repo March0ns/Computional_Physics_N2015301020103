@@ -3,7 +3,9 @@
 * 姓名 ：王硕
 * 学号：2015301020103
 
-#### 1.摘要
+#### 1.摘要    
+
+模拟两列在弦上相遇的波，以此验证波的叠加原理。
 
 #### 2.正文
 * 波的叠加性原理： 
@@ -41,4 +43,13 @@
 <div align=center>
 <img src="http://latex.codecogs.com/gif.latex?y(i,n+1)=2[1-r^2]y(i,n)-y(i,n-1)+r^2[y(i+1,n)+y(i-1,n)]"> 
   </div>    
-  两端(y(0,n)=0,y(M,n)=0)
+  两端<div align=center>    
+  <img src="http://latex.codecogs.com/gif.latex?(y(0,n)=0,y(M,n)=0)">
+  </div>    
+  "Gaussian pluck"    
+  <div align=center>    
+  <img src="http://latex.codecogs.com/gif.latex?y_{0}(x)=e^{-k(x-x_{0})}">
+  </div>    
+  
+  #### 3.图像    
+  
