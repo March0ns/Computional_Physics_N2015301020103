@@ -54,10 +54,9 @@
   
   ![](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/11.gif)    
   
-  [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp11.py)    
+  [代码](https://github.com/March0ns/Computional_Physics_N2015301020103/blob/master/EXERCISE/temp11.py) 。       
+  #### 4.结论        
+  波在传播过程中满足叠加性原理    
   
-  #### 4.结论       
-  波在传播过程中满足叠加性原理    
-  
-  #### 5.致谢        
+  #### 5.致谢        
   参考了夏海峰学长和李芳莹学姐的作业，在此表示感谢
