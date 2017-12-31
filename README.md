@@ -10,6 +10,7 @@
 [Mid-term operation](./shell_game/shell_game.md)    
 [Exercise_09:The three body](./EXERCISE/des9.md)    
 [Exercise_10:Electric Potentials and Field](./EXERCISE/des10.md)     
-[Exercise_11:Waves](./EXERCISE/des11.md)
+[Exercise_11:Waves](./EXERCISE/des11.md)    
+[FinalExercise](./EXERCISE/desF.md)
 
 
